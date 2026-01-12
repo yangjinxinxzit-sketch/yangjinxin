@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ZenXiangqi - 禅意中国象棋",
+  "description": "一个优雅的中国象棋应用，支持人人对战和基于 Gemini AI 的人机对战，具备完整的移动校验和精美的视觉体验。",
+  "requestFramePermissions": []
+}
